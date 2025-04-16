@@ -47,6 +47,27 @@ heatofjustice/
 │   │   ├── level2_library.png
 │   │   └── level3_campus.png
 │   │
+│   ├── comic_panels/
+│   │   ├── panel1.jpg
+│   │   ├── panel2.jpg
+|   │   ├── panel3.jpg
+│   │   ├── panel4.jpg
+│   │   ├── epsiode_1/
+│   │   │   ├── panel5.jpg
+│   │   │   ├── panel6.jpg
+│   │   │   ├── panel7.jpg
+│   │   │   └── panel8.jpg
+│   │   ├── epsiode_2/
+│   │   │   ├── panel9.jpg                              
+│   │   │   ├── panel10.jpg
+│   │   │   ├── panel11.jpg 
+│   │   │   └── panel12.jpg
+│   │   ├── epsiode_2/
+│   │   │   ├── panel13.jpg
+│   │   │   ├── panel14.jpg
+│   │   │   └── panel15.jpg
+│   │   └── panel16.jpg # Son 
+|   |
 │   ├── ui/
 │   │   ├── healthbar.png      # 200x20 piksel
 │   │   ├── buttons/
