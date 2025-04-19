@@ -86,27 +86,12 @@ heatofjustice/
 │       │   ├── nisa_fire.wav
 │       │   ├── nisa_hurt.wav
 │       │   ├── enemy_spawn.wav
+│       │   ├── game_stopped1.wav
+│       │   ├── game_stopped2.wav
+│       │   ├── game_stopped2.wav
+│       │   ├── game_over1.wav
+│       │   ├── game_over2.wav
 │       │   └── cemre_fall.wav
-│       ├── voices/            # Opsiyonel
-│       │   ├── panel1.mp3
-│       │   ├── panel2.mp3
-│       │   ├── panel3.mp3
-│       │   ├── panel4.mp3
-│       │   ├── epsiode_1/
-│       │   │   ├── panel5.mp3
-│       │   │   ├── panel6.mp3
-│       │   │   ├── panel7.mp3
-│       │   │   └── panel8.mp3
-│       │   ├── epsiode_2/
-│       │   │   ├── panel9.mp3                              
-│       │   │   ├── panel10.mp3
-│       │   │   ├── panel11.mp3 
-│       │   │   └── panel12.mp3
-│       │   ├── epsiode_2/
-│       │   │   ├── panel13.mp3
-│       │   │   ├── panel14.mp3
-│       │   │   └── panel15.mp3
-│       │   └── panel16.mp3 # Son     # (max 5 sn)
 │       └── bgm/
 │           ├── level1.mp3
 │           ├── level2.mp3
